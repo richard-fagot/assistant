@@ -1,6 +1,9 @@
 # assistant
 Expérimentation de création d'un assistant type jarvis avec une finalité robot autonome (Nao)
 
+voir du coté de sirius : http://sirius.clarity-lab.org/
+et de : http://meta-guide.com/software-meta-guide/100-best-github-personal-assistant
+
 # Etape 1 - Assistant vocal
 Utiliser le travail de http://jasperproject.github.io/ et le faire en langue Française et lui permettre de faire quelques actions simples.
 
